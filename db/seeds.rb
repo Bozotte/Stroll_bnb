@@ -1,7 +1,7 @@
 require 'faker'
-
+# Random Capital City 
 12.times do
-	city = City.create!(name: Faker::Address.city)
+	city = City.create!(name: Faker::Nation.capital_city)
 end
 
 15.times do
