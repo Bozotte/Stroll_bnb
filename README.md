@@ -1,4 +1,5 @@
-Projet FreeDoc
-1 / Faire un bundle install pour installer les gems nécessaires au fonctionnement du programme.
+# Projet Stroll_bnb 
 
-2 / Vérifier les bases de données avec la commande rails console dans le terminal
+1 / Faire un `bundle install` pour installer les gems nécessaires au fonctionnement du programme.
+
+2 / Vérifier les bases de données avec la commande `rails console` dans le terminal
